@@ -144,7 +144,7 @@ $color-gradient-yellow: #fbc361;
 // '.button.disabled' selects disabled links.
 .button[disabled].primary-action,
 .button.disabled.primary-action {
-  background: $greyscale-medium;
+  background: $greyscale-light;
   color: $greyscale-black;
   cursor: default;
   pointer-events: none;
